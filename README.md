@@ -28,4 +28,3 @@
 
 <p>Email: <a href="mailto:ferjanimedalamine@gmail.com">ferjanimedalamine@gmail.com</a></p>
 
-<p>GitHub: <a href="https://github.com/FerjaniMedAmine">FerjaniMedAmine</a></p>
