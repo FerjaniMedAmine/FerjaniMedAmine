@@ -1,43 +1,31 @@
-Med Amine Ferjani
+<div align="center">
+  <h1>Med Amine Ferjani</h1>
+  <p>Computer Science Student specializing in Big Data</p>
+  <p>Tunis, Tunisia</p>
+</div>
 
-Full Stack and AI Developer based in Tunis, Tunisia
+<h2>About</h2>
 
-I am a computer science student specializing in Big Data. I enjoy building useful software across the stack, from web interfaces and APIs to AI features that help people work with information. I am currently looking for a final-year internship in full stack and AI development.
+<p>I am interested in building reliable web applications and practical AI tools. My work spans backend development, user interfaces, data processing, and retrieval-based AI systems. I am looking for a final-year internship in full stack AI development or data science.</p>
 
-## Experience
+<h2>Technical Skills</h2>
 
-### Web Development Intern at Cofitel
+<p><strong>Web development:</strong> Python, FastAPI, React, JavaScript, HTML, CSS, PostgreSQL, MySQL</p>
 
-In summer 2026, I helped move several Excel VBA applications onto a unified web platform for production traceability and quality control. I built a scan-based workflow that reduced the time needed to record operations from about 90 minutes to 10 minutes. I also worked on quality alerts, interactive dashboards, and an administration module for managing users and Excel data.
+<p><strong>AI and data:</strong> RAG, LangChain, LangGraph, Qdrant, Pandas, NumPy, scikit-learn, PyTorch</p>
 
-The application ran on Cofitel's internal network with role-based access and JWT authentication. Its backend used FastAPI and PostgreSQL, while the interface was built with React. To support the company's Windows 7 environment, the server ran on Ubuntu Server in a VMware virtual machine.
+<p><strong>Tools:</strong> Git, Docker, Postman, VMware</p>
 
-## Projects
+<h2>Education</h2>
 
-### Personal AI Assistant
+<p>I am pursuing a bachelor's degree in Computer Science with a Big Data specialization, expected in 2027. I completed my first year at the Higher Institute of Computer Science of Mahdia, where I ranked first in my class, and continued at the Higher Institute of Multimedia Arts of Manouba.</p>
 
-I built a web-based assistant that can search the web, manage files and folders, and generate README files. Users can upload documents for retrieval, switch RAG and conversation memory on or off, and use the assistant for questions that do not need document context.
+<h2>Languages</h2>
 
-Its retrieval pipeline combines Gemini embeddings with BM25 lexical search, stores indexed documents in Qdrant Cloud, and uses BGE reranking before passing context to the language model. The application uses FastAPI and React, with PostgreSQL for conversation storage and LangChain and LangGraph for orchestration.
+<p>Arabic, French, English</p>
 
-### SmartScan
+<h2>Contact</h2>
 
-I developed an Android application that extracts text from photos with OCR and generates a summary through a language model API. It uses Google ML Kit for text recognition, Firebase for authentication, and SQLite for local data storage.
+<p>Email: <a href="mailto:ferjanimedalamine@gmail.com">ferjanimedalamine@gmail.com</a></p>
 
-## Technical Skills
-
-Web development: Python, FastAPI, React, JavaScript, HTML, CSS, PostgreSQL, MySQL
-
-AI and data: RAG, LangChain, LangGraph, Qdrant, Pandas, NumPy, scikit-learn, PyTorch
-
-Tools: Git, Docker, Postman, VMware
-
-## Education
-
-Bachelor's degree in Computer Science, Big Data specialization, expected 2027. I completed the first year at the Higher Institute of Computer Science of Mahdia, where I ranked first in my class, and continued at the Higher Institute of Multimedia Arts of Manouba.
-
-## Contact
-
-Email: ferjanimedalamine@gmail.com
-
-GitHub: FerjaniMedAmine
+<p>GitHub: <a href="https://github.com/FerjaniMedAmine">FerjaniMedAmine</a></p>
