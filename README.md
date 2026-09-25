@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Med Amine Ferjani</h1>
   <p>Computer Science Student specializing in Big Data</p>
-  <p>Tunis, Tunisia</p>
+
 </div>
 
 <h2>About</h2>
